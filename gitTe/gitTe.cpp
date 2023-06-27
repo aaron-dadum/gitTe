@@ -6,7 +6,7 @@
 
 int main()
 {
-    wchar_t uu[] = L"testbbh.com";
+    wchar_t uu[] = L"bbhpass";
     
     std::cout << "Hello World!\n";
 }
